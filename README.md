@@ -8,6 +8,8 @@ List of titles that I follow started to grow from few to 25+ and I was tired of 
 ## Features that I need
 - [ ] It displays current and future chapter that I'm waiting for.
 - [ ] Visiting link increase chapter counter
+- [ ] Visual information that current chapter was already read
+ - ideas: row is dimmed, row put on bottom of list
 - [ ] Add new title - title name, current chapter number, link to website
 - [ ] Edit link, if its outdated. (domain changes or is removed)
 - [ ] Add optional cycle udate period (a week, month, etc.)
