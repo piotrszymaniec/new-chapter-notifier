@@ -18,3 +18,6 @@ List of titles that I follow started to grow from few to 25+ and I was tired of 
 - chapters are sometimes numbered 1, 2, 3, 3.1, 3.15 which is difficult to know beforehand
  - possible solution: scrape and search on website dropdown box/list of chapters and read 2 last numbers
  - problem: some sites have captcha, easiest solution: find websites that does not have captcha
+
+ ## thanks
+ Cody Seibert from [Web Dev Cody channel](https://www.youtube.com/@WebDevCody) for kickoff [codebase](https://github.com/codyseibert/flashcardsage) which saved me lots of time.
