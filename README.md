@@ -27,6 +27,5 @@ List of titles that I follow started to grow from few to 25+ and I was tired of 
 - Moongo Atlas
 - Vercel - frontend and backend hosting, integration with Moongo Atlas
 
-
- ## Thanks
+## Thanks
  Cody Seibert from [Web Dev Cody channel](https://www.youtube.com/@WebDevCody) for kickoff [codebase](https://github.com/codyseibert/flashcardsage) which saved me lots of time.
