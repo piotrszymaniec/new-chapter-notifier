@@ -4,7 +4,7 @@ config();
 import express from "express";
 import mongoose from "mongoose";
 import cors from "cors";
-import { getDecksController } from "./controllers/getDecksController";
+import { getWebtoonsController } from "./controllers/getWebtoonsController";
 import { createDeckController } from "./controllers/createDeckController";
 import { deleteDeckController } from "./controllers/deleteDeckController";
 import { updateDeckController } from "./controllers/updateDeckController";
@@ -23,7 +23,7 @@ app.use(
 );
 app.use(express.json());
 
-app.get("/decks", getDecksController);
+app.get("/webtoons", getWebtoonsController);
 app.post("/decks", createDeckController);
 app.delete("/decks/:deckId", deleteDeckController);
 app.put("/decks/:deckId", updateDeckController);
