@@ -1,6 +1,6 @@
 # About
 
-Website serves as a tracking list of manhwa and manga titles that I currently read.  
+Website serves as a tracking list of manhwa and manga titles that I currently read. It lets you easily distinguish new chapters ready to read.  
 
 ## Why
 List of titles that I follow started to grow from few to 25+ and I was tired of updating excel spreadsheet on google drive. It is tideous to check titles on mobile phone that way, and then edit it after reading current chapter. Chence I'm creating solution that solves this problem.
