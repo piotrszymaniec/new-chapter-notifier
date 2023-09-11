@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { createCard } from "./api/createCard";
 import { useParams } from "react-router-dom";
-import { TDeck } from "./api/getDecks";
+import { TDeck } from "./api/model";
 import { getDeck } from "./api/getDeck";
 import { deleteCard } from "./api/deleteCard";
 import "./Deck.css";
