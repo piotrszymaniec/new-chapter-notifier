@@ -1,6 +1,6 @@
 # About
 
-Website serves as a tracking list of manhwa and manga titles that I currently read.  
+Website serves as a tracking list of manhwa and manga titles that I currently read. It lets you easily distinguish new chapters ready to read.  
 
 ## Why
 List of titles that I follow started to grow from few to 25+ and I was tired of updating excel spreadsheet on google drive. It is tideous to check titles on mobile phone that way, and then edit it after reading current chapter. Chence I'm creating solution that solves this problem.
@@ -8,6 +8,8 @@ List of titles that I follow started to grow from few to 25+ and I was tired of 
 ## Features that I need
 - [ ] It displays current and future chapter that I'm waiting for.
 - [ ] Visiting link increase chapter counter
+- [ ] Visual information that current chapter was already read
+ - ideas: row is dimmed, row put on bottom of list
 - [ ] Add new title - title name, current chapter number, link to website
 - [ ] Edit link, if its outdated. (domain changes or is removed)
 - [ ] Add optional cycle udate period (a week, month, etc.)
