@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import Deck from "../models/Deck";
+import Deck from "../models/Webtoon";
 
 export async function createDeckController(req: Request, res: Response) {
   const newDeck = new Deck({
