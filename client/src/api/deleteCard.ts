@@ -1,5 +1,5 @@
 import { API_URL } from "./config";
-import { TDeck } from "./getDecks";
+import { TDeck } from "./model";
 
 export async function deleteCard(
   deckId: string,

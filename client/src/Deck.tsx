@@ -14,15 +14,15 @@ export default function Deck() {
 
   async function handleCreateDeck(e: React.FormEvent) {
     e.preventDefault();
-    const { cards: serverCards } = await createCard(deckId!, text);
-    setCards(serverCards);
+    // const { cards: serverCards } = await createCard(deckId!, text);
+    // setCards(serverCards);
     setText("");
   }
 
   async function handleDeleteCard(index: number) {
     if (!deckId) return;
     const newDeck = await deleteCard(deckId, index);
-    setCards(newDeck.cards);
+    // setCards(newDeck.cards);
   }
 
   useEffect(() => {
@@ -30,7 +30,7 @@ export default function Deck() {
       if (!deckId) return;
       const newDeck = await getDeck(deckId);
       setDeck(newDeck);
-      setCards(newDeck.cards);
+      // setCards(newDeck.cards);
     }
     fetchDeck();
   }, [deckId]);
